@@ -1,4 +1,5 @@
 ## 图像修复的简易界面
+界面基于PyQT5,图像修复TELEA算法基于OpenCV.
 其主要功能如下
 ### 加载图像
 ![加载图像](https://github.com/1024803482/Inpainting-Demo/tree/master/image/load.png)
